@@ -10,7 +10,7 @@ body {
 }
 
 .promo {
-    background-image: url('фотография лисакова.JPG'); /* Замените на путь к вашей фотографии */
+    background-image: url('photo.JPG'); /* Замените на путь к вашей фотографии */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
